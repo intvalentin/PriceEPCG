@@ -1,0 +1,33 @@
+{
+    "Title":"Price EPCG",
+    "Actions":{
+        "Home":"Acasa",
+        "Tutorial":"Ajutor",
+        "Contact":"Email de contact",
+        "Theme":"Tema",
+        "AdvancedSearch":"Cautare avansata",
+        "Search":"Cautare",
+        "Language":"Limba",
+        "DisplayMode":"Mod afisare"
+    },
+    "Tooltip":{
+        "Search":"Link produs eMag / Cod PC Garage / Cod produs"
+    },
+    "404": "Produsul nu a fost gasit!",
+    "Help":{
+        "eMag":{
+            "Title": "eMag",
+            "LinkeMag":"Link produs",
+            "ProductCode":"Cod produs "
+        },
+        "PcGarage":{
+            "Title": "PC Garage",
+            "ProductCodepcGarage":"Cod produs PC Garage",
+            "ProductCode":"Cod produs"
+        }
+    },
+    "Library":{
+        "Roundc":"Realizata folosind libraria Roundc"
+    }
+  }
+  

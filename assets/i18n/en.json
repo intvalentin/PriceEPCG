@@ -1,0 +1,33 @@
+{
+    "Title":"Price EPCG",
+    "Actions":{
+        "Home":"Home",
+        "Tutorial":"Help",
+        "Contact":"Contact email",
+        "Theme":"Theme",
+        "AdvancedSearch":"Advanced Search",
+        "Search":"Search",
+        "Language":"Language",
+        "DisplayMode":"Display mode"
+    },
+    "Tooltip":{
+        "Search":"Product link eMag / Code PC Garage / Product code"
+    },
+    "404": "Product not found!",
+    "Help":{
+        "eMag":{
+            "Title": "eMag",
+            "LinkeMag":"Product link",
+            "ProductCode":"Product code"
+        },
+        "PcGarage":{
+            "Title": "PC Garage",
+            "ProductCodepcGarage":"Product code PC Garage",
+            "ProductCode":"Product code"
+        }
+    },
+    "Library":{
+        "Roundc":"Made with Roundc library"
+    }
+  }
+  
