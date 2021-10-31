@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635701130182,
+  "timestamp": 1635701721015,
   "index": "https://intvalentin.github.io/PriceEPCG/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "https://intvalentin.github.io/PriceEPCG/index.html",
-        "https://intvalentin.github.io/PriceEPCG/main.8c83092c8a4c390646ec.js",
+        "https://intvalentin.github.io/PriceEPCG/main.154882e9101f94adec8b.js",
         "https://intvalentin.github.io/PriceEPCG/manifest.webmanifest",
         "https://intvalentin.github.io/PriceEPCG/polyfills.94daefd414b8355106ab.js",
         "https://intvalentin.github.io/PriceEPCG/runtime.7b63b9fd40098a2e8207.js",
@@ -80,8 +80,8 @@
     "https://intvalentin.github.io/PriceEPCG/assets/icons/icon-72x72.svg": "eb4f3112d177c59b5c0b6e2edf891405c89d49d1",
     "https://intvalentin.github.io/PriceEPCG/assets/icons/icon-96x96.svg": "eb4f3112d177c59b5c0b6e2edf891405c89d49d1",
     "https://intvalentin.github.io/PriceEPCG/assets/logo.svg": "eb4f3112d177c59b5c0b6e2edf891405c89d49d1",
-    "https://intvalentin.github.io/PriceEPCG/index.html": "33df67677230f2e963ff06844c93d89f06d2fb98",
-    "https://intvalentin.github.io/PriceEPCG/main.8c83092c8a4c390646ec.js": "8a4be7f7c6c5e25814f361659448eacccdea7094",
+    "https://intvalentin.github.io/PriceEPCG/index.html": "eb4abd57d0589f70e1efe04e66621e2c482cf06a",
+    "https://intvalentin.github.io/PriceEPCG/main.154882e9101f94adec8b.js": "83ddca2828404f2bc8dc099be399b4328a7d3ffd",
     "https://intvalentin.github.io/PriceEPCG/manifest.webmanifest": "e731ef10fe0040fd2f0b97e2fb327ddaed261873",
     "https://intvalentin.github.io/PriceEPCG/material-icons-outlined.2d5996b199a1568b8df5.woff": "c4becf2eb62cce02739e93a6b661e887cc330fc6",
     "https://intvalentin.github.io/PriceEPCG/material-icons-outlined.4274ab09d4aaf98afa84.woff2": "4b4d4db9f7170e156f327b9108cce4b2eb9f9567",
