@@ -14,6 +14,7 @@
         "Search":"Link eMag / Code PC Garage / product code"
     },
     "404": "Product not found!",
+    "500": "An unexpected error occurred. Please try again later.",
     "Help":{
         "eMag":{
             "Title": "eMag",

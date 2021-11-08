@@ -14,6 +14,7 @@
         "Search":"Link eMag / Cod PC Garage / cod produs"
     },
     "404": "Produsul nu a fost gasit!",
+    "500": "A apărut o eroare neașteptată. Încearcă din nou mai târziu.",
     "Help":{
         "eMag":{
             "Title": "eMag",
